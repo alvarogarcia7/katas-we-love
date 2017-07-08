@@ -3,6 +3,7 @@
 ## How-To
 
   * Create a new header (h3 - `###`) with the title.
+  * Create a human-readable description as the body of the element
   * Create a `Tags` element specifying any information about the kata, in machine readable form:
     * comma-separated tags
     * all lowercase
