@@ -21,4 +21,13 @@
 
 ### [Legacy code katas](http://www.devjoy.com/2013/01/legacy-code-katas/)
 
+Take a legacy codebase and refactor to separate the concerns.
+
+The code is small enough to be understood at once, but big enough to add validation, input and output, side effects.
+
+Plus: 
+
+  * Use only automatic refactorings until you have broken the dependencies
+  
+
 Tags: legacy-code, richard-dalton, c-sharp, automatic-refactoring, one-day
