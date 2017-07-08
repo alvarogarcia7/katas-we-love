@@ -30,7 +30,7 @@ Plus:
   * Use only automatic refactorings until you have broken the dependencies
   
 
-Tags: legacy-code, richard-dalton, c-sharp, automatic-refactoring, one-day, dependency-breaking-technique
+Tags: legacy-code, richard-dalton, c-sharp, automatic-refactoring, one-day, dependency-breaking-technique, any-language
 
 ### [aptera/effectively](https://github.com/aptera/effectively)
 
