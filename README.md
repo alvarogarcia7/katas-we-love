@@ -39,3 +39,7 @@ Tags: legacy-code, richard-dalton, c-sharp, automatic-refactoring, one-day, depe
 > These kata illustrate some techinques we can use to stabilize legacy code—the code that works, DON'T TOUCH IT. 
 
 Tags: legacy-code, extract-and-override, static-cling, sprout-method, interface-indirection, john-fazzaro, warren-barnes, j-d-gomes, dependency-breaking-technique
+
+### [Agile Software Development In Practice](https://github.com/bkimminich/AgileSoftwareDevelopmentInPractice)
+
+
