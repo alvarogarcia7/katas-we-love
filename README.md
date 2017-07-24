@@ -34,13 +34,19 @@ Plus:
 
 Tags: legacy-code, richard-dalton, c-sharp, automatic-refactoring, one-day, dependency-breaking-technique, any-language
 
+<hr>
+
 ### [aptera/effectively](https://github.com/aptera/effectively)
 
 > These kata illustrate some techinques we can use to stabilize legacy code—the code that works, DON'T TOUCH IT. 
 
 Tags: legacy-code, extract-and-override, static-cling, sprout-method, interface-indirection, john-fazzaro, warren-barnes, j-d-gomes, dependency-breaking-technique
 
+<hr>
+
 ### [Agile Software Development In Practice](https://github.com/bkimminich/AgileSoftwareDevelopmentInPractice)
+
+<hr>
 
 ### [Numerology](https://github.com/Gianfrancoalongi/incremental_katas/tree/master/Numerology)
 
@@ -49,3 +55,5 @@ An incremental kata to replace some numbers with others, following some rules.
 This kata is ideal to practice Rules and Rule Engine
 
 Tags: incremental-kata, rule, business-rule, gianfranco-alongi, number, algorithm, business-code
+
+<hr>
