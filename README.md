@@ -42,4 +42,8 @@ Tags: legacy-code, extract-and-override, static-cling, sprout-method, interface-
 
 ### [Agile Software Development In Practice](https://github.com/bkimminich/AgileSoftwareDevelopmentInPractice)
 
+### [Numerology](https://github.com/Gianfrancoalongi/incremental_katas/tree/master/Numerology)
 
+An incremental kata to replace some numbers with others, following some rules.
+
+Tags: incremental-kata, rule, business-rule, gianfranco-alongi, number, algorithm, business-code
