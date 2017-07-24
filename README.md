@@ -46,4 +46,6 @@ Tags: legacy-code, extract-and-override, static-cling, sprout-method, interface-
 
 An incremental kata to replace some numbers with others, following some rules.
 
+This kata is ideal to practice Rules and Rule Engine
+
 Tags: incremental-kata, rule, business-rule, gianfranco-alongi, number, algorithm, business-code
