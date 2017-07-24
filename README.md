@@ -57,3 +57,9 @@ This kata is ideal to practice Rules and Rule Engine
 Tags: incremental-kata, rule, business-rule, gianfranco-alongi, number, algorithm, business-code
 
 <hr>
+
+### [Tell don't ask kata](https://github.com/gabrieletondi/tell-dont-ask-kata)
+
+A refactoring kata with nearly perfect code coverage in which the feature envy smell is very strong. Almost all behavior is separated from its data and the domain is anemic.
+
+Tags: refactoring, gabriele-tondi, tell-dont-ask, design-principle, solid, value-object, object-orientation, oop, feature envy, code-smell, anemic-domain
