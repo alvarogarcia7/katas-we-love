@@ -70,7 +70,7 @@ Tags: refactoring, gabriele-tondi, tell-dont-ask, design-principle, solid, value
 
 A classic legacy-code kata by Martin Fowler.
 
-A small exercise (1/2 to 1 day)
+A 1/2 to 1 day exercise
 
 Tags: refactoring, martin-fowler, classic, video-store, solid, code-smell, object-orientation, oop, half-day, one-day
 
