@@ -76,7 +76,7 @@ Tags: refactoring, martin-fowler, classic, video-store, solid, code-smell, objec
 
 <hr>
 
-## [Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata/)
+### [Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata/)
 
 A legacy-code kata by Emily Bache.
 
