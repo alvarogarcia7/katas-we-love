@@ -76,3 +76,10 @@ Tags: refactoring, martin-fowler, classic, video-store, solid, code-smell, objec
 
 <hr>
 
+## [Gilded Rose](https://github.com/emilybache/GildedRose-Refactoring-Kata/)
+
+A legacy-code kata by Emily Bache.
+
+The purpose is to add a new feature to a legacy code, with the [optional] restrictions of not changing some elements in the classes.
+
+Tags: legacy-code, emily-bache, github, example, constraint, restriction
