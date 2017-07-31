@@ -63,3 +63,13 @@ Tags: incremental-kata, rule, business-rule, gianfranco-alongi, number, algorith
 A refactoring kata with nearly perfect code coverage in which the feature envy smell is very strong. Almost all behavior is separated from its data and the domain is anemic.
 
 Tags: refactoring, gabriele-tondi, tell-dont-ask, design-principle, solid, value-object, object-orientation, oop, feature envy, code-smell, anemic-domain
+
+<hr>
+
+### [Video Store](http://blog.symprise.net/2009/01/14/revisiting-fowlers-video-store-01-object-oriented-syntax/)
+
+A classic legacy-code kata by Martin Fowler.
+
+A small exercise (1/2 to 1 day)
+
+Tags: refactoring, martin-fowler, classic, video-store, solid, code-smell, object-orientation, oop, half-day, one-day
