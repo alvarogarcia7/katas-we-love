@@ -62,7 +62,7 @@ Tags: incremental-kata, rule, business-rule, gianfranco-alongi, number, algorith
 
 A refactoring kata with nearly perfect code coverage in which the feature envy smell is very strong. Almost all behavior is separated from its data and the domain is anemic.
 
-Tags: refactoring, gabriele-tondi, tell-dont-ask, design-principle, solid, value-object, object-orientation, oop, feature envy, code-smell, anemic-domain
+Tags: refactoring, gabriele-tondi, tell-dont-ask, design-principle, solid, value-object, object-orientation, oop, feature-envy, code-smell, anemic-domain
 
 <hr>
 
