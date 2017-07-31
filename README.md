@@ -83,3 +83,5 @@ A legacy-code kata by Emily Bache.
 The purpose is to add a new feature to a legacy code, with the [optional] restrictions of not changing some elements in the classes.
 
 Tags: legacy-code, emily-bache, github, example, constraint, restriction, c, groovy, java, spock, kotlin, r, smalltalk, typescript, abap, c99, clisp, cpp, csharp, dart, elixir, fsharp, go, haskell, js, perl, perl6, php, plsql, python, ruby, rust, scala, swift
+
+<hr>
