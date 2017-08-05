@@ -85,3 +85,12 @@ The purpose is to add a new feature to a legacy code, with the [optional] restri
 Tags: legacy-code, emily-bache, github, example, constraint, restriction, c, groovy, java, spock, kotlin, r, smalltalk, typescript, abap, c99, clisp, cpp, csharp, dart, elixir, fsharp, go, haskell, js, perl, perl6, php, plsql, python, ruby, rust, scala, swift
 
 <hr>
+
+### [Greeting kata](https://github.com/testdouble/contributing-tests/wiki/Greeting-Kata)
+
+A greenfield kata to practice specialization and some business rules.
+
+The purpose is to build a new system that can greet differently based on the input. 
+
+Tags: nick-gauthier, bob, exercism, detroit-school-tdd, outside-in, pure-function, greeting-kata, business-rule
+
