@@ -92,5 +92,11 @@ A greenfield kata to practice specialization and some business rules.
 
 The purpose is to build a new system that can greet differently based on the input. 
 
+> This Kata is designed to help practice what a test of a pure function ought to look like. It is intentionally designed to start with a very easy, non-branching base case which slowly becomes addled with complexity as additional requirements are added that will require significant branching and eventually a pressure to compose additional units.
+> 
+> This Kata was suggested by Nick Gauthier and inspired a bit by Bob from Exercism.
+> 
+> This Kata is designed to be used with Detroit-school TDD.
+
 Tags: nick-gauthier, bob, exercism, detroit-school-tdd, outside-in, pure-function, greeting-kata, business-rule
 
