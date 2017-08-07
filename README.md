@@ -100,3 +100,5 @@ The purpose is to build a new system that can greet differently based on the inp
 
 Tags: nick-gauthier, bob, exercism, detroit-school-tdd, outside-in, pure-function, greeting-kata, business-rule
 
+<hr>
+
