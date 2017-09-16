@@ -102,3 +102,10 @@ Tags: nick-gauthier, bob, exercism, detroit-school-tdd, outside-in, pure-functio
 
 <hr>
 
+### [Pacman kata](http://codingdojo.org/kata/PacMan/)
+
+A kata for creating a PacMan game.
+
+The purpose is to balance the big design upfront (BDUF) with the small design upfront, finding exactly the amount of design to be effective.
+
+
