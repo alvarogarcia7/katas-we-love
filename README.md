@@ -108,5 +108,7 @@ A kata for creating a PacMan game.
 
 The purpose is to balance the big design upfront (BDUF) with the small design upfront, finding exactly the amount of design to be effective.
 
+Originally by [William Van Den Ende](http://codingdojo.org/people/WillemVanDenEnde/)
+
 Tags: codingdojo-org, pacman, game, easy, bduf, sduf, design, ui, user-interface, ai, artificial-intelligence, pacman-kata
 
