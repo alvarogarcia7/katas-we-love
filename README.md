@@ -112,3 +112,9 @@ Originally by [William Van Den Ende](http://codingdojo.org/people/WillemVanDenEn
 
 Tags: codingdojo-org, pacman, game, easy, bduf, sduf, design, ui, user-interface, ai, artificial-intelligence, pacman-kata
 
+### https://github.com/wlodekkr/tests-refactoring
+
+> This repository contains the codebase that is subject to the refactoring.
+
+Tags: refactoring, kata, java, java-8
+
